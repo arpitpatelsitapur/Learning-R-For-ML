@@ -26,21 +26,6 @@ Clone the repository to your local machine using the following command:
 git clone https://github.com/arpitpatelsitapur/Learning-R-For-ML.git
 ```
 
-### Installing Dependencies
-
-This repository uses several R packages for data manipulation, visualization, and machine learning. You can install all the required packages using the `install_packages.R` script provided in the `Scripts` folder:
-
-```r
-source('Scripts/install_packages.R')
-```
-
-### Running the Scripts
-
-Navigate to the `Scripts` folder and run any of the R scripts using R or RStudio. For example:
-
-```r
-Rscript Scripts/script_file_name.R
-```
 
 ## Learning Progress
 
