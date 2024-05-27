@@ -55,5 +55,3 @@ If you have any questions or would like to connect, feel free to reach out to me
 - GitHub: [arpitpatelsitapur](https://github.com/arpitpatelsitapur)
 - Email: pa7238867@gmail.com
 
-
-```
